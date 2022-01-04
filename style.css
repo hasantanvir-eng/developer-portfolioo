@@ -54,3 +54,18 @@ h2{
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
 }
+#full-stack-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(
+    180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+
+}
+#web-dev-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
